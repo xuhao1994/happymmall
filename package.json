@@ -1,0 +1,23 @@
+{
+  "name": "mmall-fe",
+  "version": "1.0.0",
+  "description": "mmall前端代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuhao1994/happymmall.git"
+  },
+  "author": "xuhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuhao1994/happymmall/issues"
+  },
+  "homepage": "https://github.com/xuhao1994/happymmall#readme",
+  "devDependencies": {
+    "webpack": "^1.15.0"
+  },
+  "dependencies": {}
+}
